@@ -21,5 +21,6 @@ Step 15: `<a>` tags can also be used to wrap an image, turning it into a link
 Step 16: introduce `<section>` element
 Step 17: add a new `<section>`
 Step 18: nest a new `<h2>` element inside the `<section>`
-Step 19: introduce the `<h3>` element
-Step 20: 
+Step 19: introduce `<h3>` element
+Step 20: introduce `<ul>` element
+Step 21: 

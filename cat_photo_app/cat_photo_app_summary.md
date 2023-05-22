@@ -23,4 +23,5 @@ Step 17: add a new `<section>`
 Step 18: nest a new `<h2>` element inside the `<section>`
 Step 19: introduce `<h3>` element
 Step 20: introduce `<ul>` element
-Step 21: 
+Step 21: introduce `<li>` element
+Step 22: 

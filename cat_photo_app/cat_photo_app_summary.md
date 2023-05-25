@@ -25,4 +25,5 @@ Step 19: introduce `<h3>` element
 Step 20: introduce `<ul>` element
 Step 21: introduce `<li>` element
 Step 22: add another `<img>` under the `<ul>` in the 2nd section
-Step 23: 
+Step 23: introduce `<figure>` element
+Step 24: 

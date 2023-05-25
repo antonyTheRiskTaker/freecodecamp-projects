@@ -26,4 +26,5 @@ Step 20: introduce `<ul>` element
 Step 21: introduce `<li>` element
 Step 22: add another `<img>` under the `<ul>` in the 2nd section
 Step 23: introduce `<figure>` element
-Step 24: 
+Step 24: introduce `<figcaption>` element
+Step 25: 

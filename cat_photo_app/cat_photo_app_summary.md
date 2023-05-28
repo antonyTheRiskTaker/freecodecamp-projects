@@ -34,4 +34,6 @@ Step 28: add another `<figure>`
 Step 29: add another `<img>`
 Step 30: add an `alt` attribute with text in the `<img>` in step 29 for
          accessibility
-Step 31:          
+Step 31: nest a `<figcaption>` inside the second `<figure>`
+Step 32: introduce `<strong>` element
+Step 33: 

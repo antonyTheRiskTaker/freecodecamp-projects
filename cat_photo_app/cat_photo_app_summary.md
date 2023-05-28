@@ -29,4 +29,6 @@ Step 23: introduce `<figure>` element
 Step 24: introduce `<figcaption>` element
 Step 25: introduce `<em>` element
 Step 26: add a `<h3>` with text after the `<figure>` element
-Step 27: 
+Step 27: introduce `<ol>` element
+Step 28: add another `<figure>`
+Step 29: 

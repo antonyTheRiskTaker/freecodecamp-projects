@@ -31,4 +31,7 @@ Step 25: introduce `<em>` element
 Step 26: add a `<h3>` with text after the `<figure>` element
 Step 27: introduce `<ol>` element
 Step 28: add another `<figure>`
-Step 29: 
+Step 29: add another `<img>`
+Step 30: add an `alt` attribute with text in the `<img>` in step 29 for
+         accessibility
+Step 31:          

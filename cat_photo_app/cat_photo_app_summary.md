@@ -36,4 +36,6 @@ Step 30: add an `alt` attribute with text in the `<img>` in step 29 for
          accessibility
 Step 31: nest a `<figcaption>` inside the second `<figure>`
 Step 32: introduce `<strong>` element
-Step 33: 
+Step 33: add a third `<section>`
+Step 34: add a `<h2>` inside the `<section>`
+Step 35: 

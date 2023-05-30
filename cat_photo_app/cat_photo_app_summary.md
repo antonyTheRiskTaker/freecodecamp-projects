@@ -38,4 +38,6 @@ Step 31: nest a `<figcaption>` inside the second `<figure>`
 Step 32: introduce `<strong>` element
 Step 33: add a third `<section>`
 Step 34: add a `<h2>` inside the `<section>`
-Step 35: 
+Step 35: introduce `<form>` element
+Step 36: introduce the `action` attribute of `<form>` and explain its purpose
+Step 37: 

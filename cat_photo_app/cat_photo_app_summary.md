@@ -40,4 +40,7 @@ Step 33: add a third `<section>`
 Step 34: add a `<h2>` inside the `<section>`
 Step 35: introduce `<form>` element
 Step 36: introduce the `action` attribute of `<form>` and explain its purpose
-Step 37: 
+Step 37: introduce `<input>` element
+Step 38: introduce the `type` attribute of `<input>`
+Step 39: introduce the `name` attribute of `<input>`
+Step 40: 

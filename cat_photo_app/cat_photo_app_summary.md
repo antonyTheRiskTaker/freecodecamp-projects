@@ -43,4 +43,7 @@ Step 36: introduce the `action` attribute of `<form>` and explain its purpose
 Step 37: introduce `<input>` element
 Step 38: introduce the `type` attribute of `<input>`
 Step 39: introduce the `name` attribute of `<input>`
-Step 40: 
+Step 40: introduce the `placeholder` attribute of `<input>`
+Step 41: introduce the `required` attribute of `<input>` (no need to set a
+         value to the attribute)
+Step 42: 

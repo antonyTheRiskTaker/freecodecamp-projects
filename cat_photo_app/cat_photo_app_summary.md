@@ -46,4 +46,6 @@ Step 39: introduce the `name` attribute of `<input>`
 Step 40: introduce the `placeholder` attribute of `<input>`
 Step 41: introduce the `required` attribute of `<input>` (no need to set a
          value to the attribute)
-Step 42: 
+Step 42: introduce `<button>` element
+Step 43: introduce inline elements and type attribute of `<button>`
+Step 44: 

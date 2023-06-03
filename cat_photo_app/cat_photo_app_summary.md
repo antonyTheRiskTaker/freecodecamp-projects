@@ -52,4 +52,6 @@ Step 44: set the `type` attribute to `radio` to turn a `<input>` into a radio
          button
 Step 45: wrap `<label>` over a radio button so that when label text is clicked,
          the radio button is selected
-Step 46: 
+Step 46: introduce `id` attribute and the order of attributes doesn't matter
+Step 47: add another radio button nested inside a `<label>`
+Step 48: 

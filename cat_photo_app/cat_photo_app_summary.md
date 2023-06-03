@@ -48,4 +48,8 @@ Step 41: introduce the `required` attribute of `<input>` (no need to set a
          value to the attribute)
 Step 42: introduce `<button>` element
 Step 43: introduce inline elements and type attribute of `<button>`
-Step 44: 
+Step 44: set the `type` attribute to `radio` to turn a `<input>` into a radio
+         button
+Step 45: wrap `<label>` over a radio button so that when label text is clicked,
+         the radio button is selected
+Step 46: 

@@ -68,4 +68,7 @@ Step 56: use `<label>` to provide description of the checkbox
 Step 57: provide the `name` attribute of the checkbox with a value
 Step 58: add another checkbox and its associated `<label>`
 Step 59: add another checkbox and its associated `<label>`
-Step 60: 
+Step 60: add a value attribute to each checkbox (it's a good practice a value
+         attribute with any checkboxes or radio buttons) 
+Step 61: introduce `checked` attribute for radio buttons or checkboxes
+Step 62: 

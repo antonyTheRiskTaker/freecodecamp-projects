@@ -71,4 +71,7 @@ Step 59: add another checkbox and its associated `<label>`
 Step 60: add a value attribute to each checkbox (it's a good practice a value
          attribute with any checkboxes or radio buttons) 
 Step 61: introduce `checked` attribute for radio buttons or checkboxes
-Step 62: 
+Step 62: introduce `<footer>` element
+Step 63: nest a `<p>` inside the `<footer>`
+Step 64: enclose the url in an `<a>`
+Step 65: 

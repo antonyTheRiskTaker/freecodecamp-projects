@@ -61,4 +61,7 @@ Step 50: introduce `<fieldset>` element and block-level elements
 Step 51: introduce `<legend>` element
 Step 52: add another `<fieldset>`
 Step 53: nest a `<legend>` inside the `<fieldset>`
-Step 54: 
+Step 54: create a checkbox using `<input>` by setting its `type` attribute to
+         `checkbox`
+Step 55: add an `id` attribute to the checkbox
+Step 56: 

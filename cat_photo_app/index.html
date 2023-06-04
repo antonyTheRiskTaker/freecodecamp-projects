@@ -1,4 +1,4 @@
-<!-- Steps covered: 1 through 49 -->
+<!-- Steps covered: 1 through 51 -->
 
 <html>
   <body>
@@ -38,8 +38,11 @@
       <section>
         <h2>Cat Form</h2>
         <form action="https://freecatphotoapp.com/submit-cat-photo">
-          <label><input type="radio" id="indoor" name="indoor-outdoor" value="indoor" /> Indoor</label>
-          <label><input type="radio" id="outdoor" name="indoor-outdoor" value="outdoor" /> Outdoor</label>
+          <fieldset>
+            <legend>Is your cat an indoor or outdoor cat?</legend>
+            <label><input type="radio" id="indoor" name="indoor-outdoor" value="indoor" /> Indoor</label>
+            <label><input type="radio" id="outdoor" name="indoor-outdoor" value="outdoor" /> Outdoor</label>
+          </fieldset>
           <input type="text" name="catphotourl" placeholder="cat photo URL" required />
           <button type="submit">Submit</button>
         </form>

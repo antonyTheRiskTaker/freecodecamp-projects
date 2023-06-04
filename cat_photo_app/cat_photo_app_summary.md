@@ -74,4 +74,11 @@ Step 61: introduce `checked` attribute for radio buttons or checkboxes
 Step 62: introduce `<footer>` element
 Step 63: nest a `<p>` inside the `<footer>`
 Step 64: enclose the url in an `<a>`
-Step 65: 
+Step 65: introduce `<body>` and `<head>` elements
+Step 66: introduce `<title>` element
+Step 67: introduce `<html>` and its `lang` attribute
+Step 68: introduce `<!DOCTYPE html>` declaration
+Step 69: introduce `<meta>` element, which sets browser behaviour
+
+Summary of elements learned:
+1. 

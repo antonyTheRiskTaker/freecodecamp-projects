@@ -59,4 +59,6 @@ Step 48: making a group of radio buttons to have the same value for their
 Step 49: introduce `value` attribute
 Step 50: introduce `<fieldset>` element and block-level elements
 Step 51: introduce `<legend>` element
-Step 52: 
+Step 52: add another `<fieldset>`
+Step 53: nest a `<legend>` inside the `<fieldset>`
+Step 54: 

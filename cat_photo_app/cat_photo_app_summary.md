@@ -66,4 +66,6 @@ Step 54: create a checkbox using `<input>` by setting its `type` attribute to
 Step 55: add an `id` attribute to the checkbox
 Step 56: use `<label>` to provide description of the checkbox
 Step 57: provide the `name` attribute of the checkbox with a value
-Step 58: 
+Step 58: add another checkbox and its associated `<label>`
+Step 59: add another checkbox and its associated `<label>`
+Step 60: 

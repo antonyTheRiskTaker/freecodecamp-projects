@@ -54,4 +54,7 @@ Step 45: wrap `<label>` over a radio button so that when label text is clicked,
          the radio button is selected
 Step 46: introduce `id` attribute and the order of attributes doesn't matter
 Step 47: add another radio button nested inside a `<label>`
-Step 48: 
+Step 48: making a group of radio buttons to have the same value for their
+         `name` attributes restricts the user to select one button at a time
+Step 49: introduce `value` attribute
+Step 50: 

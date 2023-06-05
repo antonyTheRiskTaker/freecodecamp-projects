@@ -80,5 +80,10 @@ Step 67: introduce `<html>` and its `lang` attribute
 Step 68: introduce `<!DOCTYPE html>` declaration
 Step 69: introduce `<meta>` element, which sets browser behaviour
 
-Summary of elements learned:
-1. 
+Summary of lesson learned:
+1. `<h1>`, `<h2>`, `<h3>`, `<p>`, `<main>`, `<img>`, `<a>`, `<section>`, `<ul>`,
+   `<ol>`, `<li>`, `<figure>`, `<figcaption>`, `<em>`, `<strong>`, `<form>`,
+   `<input>`, `<button>`, `<label>`, `<fieldset>`, `<legend>`, `<footer>`,
+   `<body>`, `<head>`, `<title>`, `<html>`, `<!DOCTYPE html>`, `<meta>`
+2. inline elements v.s. block-level elements
+3. 

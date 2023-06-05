@@ -85,5 +85,6 @@ Summary of lesson learned:
    `<ol>`, `<li>`, `<figure>`, `<figcaption>`, `<em>`, `<strong>`, `<form>`,
    `<input>`, `<button>`, `<label>`, `<fieldset>`, `<legend>`, `<footer>`,
    `<body>`, `<head>`, `<title>`, `<html>`, `<!DOCTYPE html>`, `<meta>`
+   (28 in total)
 2. inline elements v.s. block-level elements
 3. 

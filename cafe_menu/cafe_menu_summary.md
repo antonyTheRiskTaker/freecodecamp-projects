@@ -1,4 +1,7 @@
 Step 1: prepare the basic structure to start building a web page. Add
         `<!DOCTYPE html>` and `<html>`
 Step 2: add `<head>` and `<title>`
-Step 3: 
+Step 3: explain the purposes of `<title>` and `<meta>` (with `charset`
+        attribute)
+Step 4: add `<body>`
+Step 5: 

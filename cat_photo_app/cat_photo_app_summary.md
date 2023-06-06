@@ -1,5 +1,6 @@
 Step 1: introduce `<h1>` element
-Step 2: introduce `<h2>` element
+Step 2: introduce the heading elements, i.e. `<h1>` through `<h6>`, and their
+        purpose. Add a `<h2>` element
 Step 3: introduce `<p>` element
 Step 4: learn how to create comments in HTML
 Step 5: introdice `<main>` as one of those HTML elements that identify content

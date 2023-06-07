@@ -4,4 +4,6 @@ Step 2: add `<head>` and `<title>`
 Step 3: explain the purposes of `<title>` and `<meta>` (with `charset`
         attribute)
 Step 4: add `<body>`
-Step 5: 
+Step 5: add `<main>` within `<body>`
+Step 6: add `<h1>` within `<main>`
+Step 7: 

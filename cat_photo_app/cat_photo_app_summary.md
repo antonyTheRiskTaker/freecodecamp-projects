@@ -3,8 +3,8 @@ Step 2: introduce the heading elements, i.e. `<h1>` through `<h6>`, and their
         purpose. Add a `<h2>` element
 Step 3: introduce `<p>` element
 Step 4: learn how to create comments in HTML
-Step 5: introdice `<main>` as one of those HTML elements that identify content
-        areas of a web page, for better SEO
+Step 5: introduce `<main>` as one of those HTML elements that identify content
+        areas of a web page, for better SEO and accessibility
 Step 6: introduce nesting (2 spaces for HTML)
 Step 7: introduce `<img>` element
 Step 8: introduce HTML attributes as a means to control an element's behaviour,

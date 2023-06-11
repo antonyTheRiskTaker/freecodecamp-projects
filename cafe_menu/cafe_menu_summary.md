@@ -19,8 +19,13 @@ Step 14: introduce good CSS styling practice: create a css file and put all the
 Step 15: remove the `<style>` and all its content
 Step 16: introduce `<link>` element and use it to link a stylesheet to a HTML
          page
-Step 17: 
+Step 17: add a `<meta>` to make the styling of the page looks similar on
+         desktop or mobile
+Step 18: introduce `background-color` property and style `<body>`
+Step 19: style `<body>`'s `background-color` as `burlywood`
+Step 20: introduce `<div>` element and its purpose
+Step 21: 
 
 Summary of lesson learned:
-1. HTML elements: `<style>`, `<link>`,
-2. CSS properties: `text-align`,
+1. HTML elements: `<style>`, `<link>`, `<div>`,
+2. CSS properties: `text-align`, `background-color`,

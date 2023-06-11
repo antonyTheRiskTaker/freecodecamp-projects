@@ -10,7 +10,7 @@ Step 7: add `<p>` that contains year of establishment
 Step 8: add `<section>` to hold coffees
 Step 9: add `<h2>` in the coffee `<section>`
 Step 10: introduce `<style>` element (one of the many ways to style a HTML page)
-Step 11: how to style an element and introduce `text-align` property
+Step 11: how to style an element and introduce `text-align` CSS property
 Step 12: introduce CSS *type selector* and centre a couple of elements
 Step 13: introduce applying the same group of CSS styles to a comma-separated
          list of selectors
@@ -24,8 +24,10 @@ Step 17: add a `<meta>` to make the styling of the page looks similar on
 Step 18: introduce `background-color` property and style `<body>`
 Step 19: style `<body>`'s `background-color` as `burlywood`
 Step 20: introduce `<div>` element and its purpose
-Step 21: 
+Step 21: introduce `width` CSS property
+Step 22: how to add comments or comment out codes in CSS
+Step 23: 
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`,
-2. CSS properties: `text-align`, `background-color`,
+2. CSS properties: `text-align`, `background-color`, `width`,

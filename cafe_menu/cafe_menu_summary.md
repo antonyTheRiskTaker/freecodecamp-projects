@@ -26,7 +26,10 @@ Step 19: style `<body>`'s `background-color` as `burlywood`
 Step 20: introduce `<div>` element and its purpose
 Step 21: introduce `width` CSS property
 Step 22: how to add comments or comment out codes in CSS
-Step 23: 
+Step 23: set the `background-color` of `<div>` to `burlywood`
+Step 24: set the `width` of `<div>` to `80%`, making it 80% the width of its 
+         parent element `<body>`
+Step 25:          
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`,

@@ -1,13 +1,14 @@
-/* Steps covered: 1 through 20 */
+/* Steps covered: 1 through 24 */
 
 h1, h2, p {
   text-align: center;
 }
 
-body {
-  /* background-color: burlywood; */
-}
+/* body {
+  background-color: burlywood;
+} */
 
 div {
-  width: 300px;
+  width: 80%;
+  background-color: burlywood;
 }

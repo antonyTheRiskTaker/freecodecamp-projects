@@ -31,7 +31,8 @@ Step 24: set the `width` of `<div>` to `80%`, making it 80% the width of its
          parent element `<body>`
 Step 25: introduce `margin-left` and `margin-right` CSS properties, and use
          them to centre the `<div>`
-Step 26: introduce CSS *class selector*
+Step 26: introduce CSS *class selector* and change `div` type selector to
+         `.menu`
 Step 27: 
 
 Summary of lesson learned:

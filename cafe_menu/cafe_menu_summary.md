@@ -29,8 +29,12 @@ Step 22: how to add comments or comment out codes in CSS
 Step 23: set the `background-color` of `<div>` to `burlywood`
 Step 24: set the `width` of `<div>` to `80%`, making it 80% the width of its 
          parent element `<body>`
-Step 25:          
+Step 25: introduce `margin-left` and `margin-right` CSS properties, and use
+         them to centre the `<div>`
+Step 26: introduce CSS *class selector*
+Step 27: 
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`,
-2. CSS properties: `text-align`, `background-color`, `width`,
+2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
+`margin-right`,

@@ -33,9 +33,15 @@ Step 25: introduce `margin-left` and `margin-right` CSS properties, and use
          them to centre the `<div>`
 Step 26: introduce CSS *class selector* and change `div` type selector to
          `.menu`
-Step 27: 
+Step 27: apply `.menu`'s styling to the `<div>` by assigning the value `menu`
+         to its `class` attribute
+Step 28: introduce `background-image` CSS property and use an image of coffee
+         beans for the background of the page
+Step 29: introduce `<article>` element
+Step 30: nest two `<p>` inside the `<article>` for drink and price
+Step 31: 
 
 Summary of lesson learned:
-1. HTML elements: `<style>`, `<link>`, `<div>`,
+1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
-`margin-right`,
+`margin-right`, `background-image`

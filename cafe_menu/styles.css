@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 24 */
+/* Steps covered: 1 through 26 */
 
 h1, h2, p {
   text-align: center;
@@ -8,7 +8,9 @@ h1, h2, p {
   background-color: burlywood;
 } */
 
-div {
+.menu {
   width: 80%;
   background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
 }

@@ -39,7 +39,9 @@ Step 28: introduce `background-image` CSS property and use an image of coffee
          beans for the background of the page
 Step 29: introduce `<article>` element
 Step 30: nest two `<p>` inside the `<article>` for drink and price
-Step 31: 
+Step 31: add four more `<article>` blocks for coffee flavours and their prices
+Step 32: add `flavor` class to the "French Vanilla" `<p>`
+Step 33: 
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`

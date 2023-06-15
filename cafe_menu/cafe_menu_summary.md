@@ -41,14 +41,25 @@ Step 29: introduce `<article>` element
 Step 30: nest two `<p>` inside the `<article>` for drink and price
 Step 31: add four more `<article>` blocks for coffee flavours and their prices
 Step 32: add `flavor` class to the "French Vanilla" `<p>`
-Step 33: introduce `text-align` CSS property
+Step 33: introduce `text-align` CSS property and set `.flavor`'s `text-align`
+         property to `left`
 Step 34: add `price` class to the `<p>` where French Vanilla's price is placed
 Step 35: set `.price`'s `text-align` property to `right` in the stylesheet
 Step 36: add `item` class to the `<article>` that wraps up the French Vanilla
          information
-Step 37:          
+Step 37: introduce *descendant selector*, `display` CSS property and a `display`
+         value `inline-block` which makes block elements behave like inline
+         elements
+Step 38: set the `width` property of both `.flavor` and `.price` to `50%` in the
+         stylesheet
+Step 39: set the `width` property of both `.flavor` and `.price` to `49%` in the
+         stylesheet instead
+Step 40: move the coffee `<p>` and price `<p>` next to each other with no space
+         between them
+Step 41:          
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
-`margin-right`, `background-image`, `text-align`,
+`margin-right`, `background-image`, `text-align`, `display`
+3. `display: inline-block;` makes block elements behave like inline elements.

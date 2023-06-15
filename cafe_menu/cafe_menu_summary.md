@@ -43,7 +43,10 @@ Step 31: add four more `<article>` blocks for coffee flavours and their prices
 Step 32: add `flavor` class to the "French Vanilla" `<p>`
 Step 33: introduce `text-align` CSS property
 Step 34: add `price` class to the `<p>` where French Vanilla's price is placed
-Step 35: 
+Step 35: set `.price`'s `text-align` property to `right` in the stylesheet
+Step 36: add `item` class to the `<article>` that wraps up the French Vanilla
+         information
+Step 37:          
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`

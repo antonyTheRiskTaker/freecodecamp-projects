@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 32 */
+/* Steps covered: 1 through 34 */
 
 h1, h2, p {
   text-align: center;
@@ -13,4 +13,8 @@ body {
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
+}
+
+.flavor {
+  text-align: left;
 }

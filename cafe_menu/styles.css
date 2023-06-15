@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 34 */
+/* Steps covered: 1 through 36 */
 
 h1, h2, p {
   text-align: center;
@@ -17,4 +17,8 @@ body {
 
 .flavor {
   text-align: left;
+}
+
+.price {
+  text-align: right;
 }

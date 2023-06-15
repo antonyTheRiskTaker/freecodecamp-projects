@@ -41,9 +41,11 @@ Step 29: introduce `<article>` element
 Step 30: nest two `<p>` inside the `<article>` for drink and price
 Step 31: add four more `<article>` blocks for coffee flavours and their prices
 Step 32: add `flavor` class to the "French Vanilla" `<p>`
-Step 33: 
+Step 33: introduce `text-align` CSS property
+Step 34: add `price` class to the `<p>` where French Vanilla's price is placed
+Step 35: 
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
-`margin-right`, `background-image`
+`margin-right`, `background-image`, `text-align`,

@@ -56,7 +56,9 @@ Step 39: set the `width` property of both `.flavor` and `.price` to `49%` in the
          stylesheet instead
 Step 40: move the coffee `<p>` and price `<p>` next to each other with no space
          between them
-Step 41:          
+Step 41: set the `width` property of both `.flavor` and `.price` back to `50%` 
+         in the stylesheet again
+Step 42:           
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`

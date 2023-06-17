@@ -58,7 +58,12 @@ Step 40: move the coffee `<p>` and price `<p>` next to each other with no space
          between them
 Step 41: set the `width` property of both `.flavor` and `.price` back to `50%` 
          in the stylesheet again
-Step 42:           
+Step 42: add the `.item` class to other `<article>` elements
+Step 43: put the other `<p>` elements to be on the same line with no space
+         between them
+Step 44: add applicable classes `.flavor` and `.price` to all the remaining
+         `<p>` elements
+Step 45:          
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`

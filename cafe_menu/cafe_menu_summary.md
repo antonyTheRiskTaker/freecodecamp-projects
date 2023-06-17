@@ -63,7 +63,7 @@ Step 43: put the other `<p>` elements to be on the same line with no space
          between them
 Step 44: add applicable classes `.flavor` and `.price` to all the remaining
          `<p>` elements
-Step 45:          
+Step 45:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`

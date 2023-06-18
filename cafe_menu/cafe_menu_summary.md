@@ -63,7 +63,10 @@ Step 43: put the other `<p>` elements to be on the same line with no space
          between them
 Step 44: add applicable classes `.flavor` and `.price` to all the remaining
          `<p>` elements
-Step 45:
+Step 45: change `.flavor` class `width` value to `75%`, `.price` class `width`
+         value to `25%`
+Step 46: add a second `<section>` for displaying desserts offered by the cafe
+Step 47: 
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`

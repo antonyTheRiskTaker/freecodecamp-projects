@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 50 */
+/* Steps covered: 1 through 52 */
 
 h1, h2, p {
   text-align: center;
@@ -15,7 +15,7 @@ body {
   margin-right: auto;
 }
 
-.flavor {
+.flavor, .dessert {
   text-align: left;
   width: 75%;
 }

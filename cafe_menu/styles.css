@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 54 */
+/* Steps covered: 1 through 56 */
 
 h1, h2, p {
   text-align: center;
@@ -13,10 +13,8 @@ body {
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px;
+  max-width: 500px;
 }
 
 .flavor, .dessert {

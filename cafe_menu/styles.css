@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 68 */
+/* Steps covered: 1 through 70 */
 
 h1, h2, p {
   text-align: center;
@@ -31,8 +31,9 @@ h2 {
 }
 
 hr {
-  height: 3px;
+  height: 2px;
   background-color: brown;
+  border-color: brown;
 }
 
 h1, h2 {

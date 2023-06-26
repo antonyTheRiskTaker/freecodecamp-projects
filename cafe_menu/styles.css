@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 72 */
+/* Steps covered: 1 through 73 */
 
 h1, h2, p {
   text-align: center;
@@ -53,4 +53,6 @@ h1, h2 {
 
 .item p {
   display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }

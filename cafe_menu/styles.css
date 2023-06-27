@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 75 */
+/* Steps covered: 1 through 77 */
 
 h1, h2, p {
   text-align: center;
@@ -45,6 +45,13 @@ h1, h2 {
   font-family: Impact, serif;
 }
 
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
 .flavor, .dessert {
   text-align: left;
   width: 75%;
@@ -55,9 +62,4 @@ h1, h2 {
   width: 25%;
 }
 
-.item p {
-  display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 18px;
-}
+/* FOOTER */

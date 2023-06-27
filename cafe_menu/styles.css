@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 77 */
+/* Steps covered: 1 through 79 */
 
 h1, h2, p {
   text-align: center;
@@ -63,3 +63,10 @@ h1, h2 {
 }
 
 /* FOOTER */
+footer {
+  font-size: 14px;
+}
+
+a {
+  color: black;
+}

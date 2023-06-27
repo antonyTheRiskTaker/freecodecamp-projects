@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 79 */
+/* Steps covered: 1 through 81 */
 
 h1, h2, p {
   text-align: center;
@@ -69,4 +69,12 @@ footer {
 
 a {
   color: black;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: brown;
 }

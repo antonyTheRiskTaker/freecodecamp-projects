@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 88 */
+/* Steps covered: 1 through 90 */
 
 h1, h2, p {
   text-align: center;
@@ -31,6 +31,12 @@ h2 {
   margin-right: auto;
   padding: 20px;
   max-width: 500px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 hr {

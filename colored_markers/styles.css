@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 12 */
+/* Steps covered: 1 through 14 */
 
 h1 {
   text-align: center;
@@ -8,4 +8,5 @@ h1 {
   background-color: red;
   height: 25px;
   width: 200px;
+  margin: auto;
 }

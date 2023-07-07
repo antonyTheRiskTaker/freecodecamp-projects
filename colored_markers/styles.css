@@ -1,12 +1,15 @@
-/* Steps covered: 1 through 15 */
+/* Steps covered: 1 through 18 */
 
 h1 {
   text-align: center;
 }
 
 .marker {
-  background-color: red;
   height: 25px;
   width: 200px;
   margin: auto;
+}
+
+.one {
+  background-color: red;
 }

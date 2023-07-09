@@ -1,7 +1,11 @@
-/* Steps covered: 1 through 20 */
+/* Steps covered: 1 through 21 */
 
 h1 {
   text-align: center;
+}
+
+.container {
+  background-color: rgb(0, 0, 0);
 }
 
 .marker {

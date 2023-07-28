@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 50 */
+/* Steps covered: 1 through 52 */
 
 h1 {
   text-align: center;
@@ -17,7 +17,7 @@ h1 {
 }
 
 .red {
-  background: linear-gradient(90deg);
+  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0));
 }
 
 .green {

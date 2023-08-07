@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 71 */
+/* Steps covered: 1 through 73 */
 
 h1 {
   text-align: center;
@@ -19,6 +19,8 @@ h1 {
 .sleeve {
   width: 110px;
   height: 25px;
+  background-color: white;
+  opacity: 0.5;
 }
 
 .red {

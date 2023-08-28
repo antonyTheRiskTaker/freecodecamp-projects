@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 43 */
+/* Steps covered: 1 through 45 */
 body {
   width: 100%;
   height: 100vh;
@@ -12,6 +12,18 @@ body {
 h1, p {
   margin: 1em auto;
   text-align: center;
+}
+
+form {
+  margin: 0 auto;
+  max-width: 500px; 
+  min-width: 300px;
+  width: 60vw;
+}
+
+fieldset {
+  border: 0;
+  padding: 2rem 0;
 }
 
 label {

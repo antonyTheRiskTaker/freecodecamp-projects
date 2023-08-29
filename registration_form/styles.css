@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 45 */
+/* Steps covered: 1 through 47 */
 body {
   width: 100%;
   height: 100vh;
@@ -24,6 +24,11 @@ form {
 fieldset {
   border: 0;
   padding: 2rem 0;
+  border-bottom: 3px solid #3b3b4f;
+}
+
+fieldset:last-of-type {
+  border-bottom: none;
 }
 
 label {

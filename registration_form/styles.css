@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 53 */
+/* Steps covered: 1 through 56 */
 body {
   width: 100%;
   height: 100vh;
@@ -56,4 +56,9 @@ textarea {
   width: unset;
   margin: 0 0.5em 0 0;
   vertical-align: middle;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
 }

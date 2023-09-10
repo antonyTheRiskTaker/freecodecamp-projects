@@ -54,3 +54,10 @@ p {
 /* TODO: a declaration block for <input>, <button>, <select> and <textarea> */
 
 /* TODO: a declaration block for <button> */
+
+/* ? A neat trick centering your contents    */
+/* ? in the middle of the page horizontally. */
+.container {
+  width: 100%;
+  margin: 3.125rem auto 0 auto;
+}

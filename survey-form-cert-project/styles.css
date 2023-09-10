@@ -11,8 +11,8 @@ body {
   margin: 0;
 }
 
-/* * This is simply a copy-and-paste code. */
-/* * You should take time to understand it.*/
+/** This is simply a copy-and-paste code.  */
+/** You should take time to understand it. */
 /* mobile friendly alternative to using background-attachment: fixed */
 body::before {
   content: '';

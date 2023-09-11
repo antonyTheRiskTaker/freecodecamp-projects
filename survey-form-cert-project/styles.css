@@ -78,3 +78,7 @@ p {
 }
 
 /* TODO: a declaration block for the clue class */
+
+.text-center {
+  text-align: center;
+}

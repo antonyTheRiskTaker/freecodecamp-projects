@@ -66,4 +66,7 @@ p {
 
 /* TODO: media query declaration block #2 for responsive design */
 
-/* TODO: continue from here */
+.header {
+  padding: 0 0.625rem;
+  margin-bottom: 1.875rem;
+}

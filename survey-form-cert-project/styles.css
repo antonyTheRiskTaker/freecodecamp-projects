@@ -1,5 +1,6 @@
 :root {
   --color-white: #f3f3f3;
+  --color-dark-blue-alpha: rgba(27, 27, 50, 0.8);
 }
 
 body {
@@ -85,4 +86,8 @@ p {
 
 /* form */
 
-/* TODO: continue from here */
+form {
+  background: var(--color-dark-blue-alpha);
+  padding: 2.5rem 0.625rem;
+  border-radius: 0.25rem;
+}

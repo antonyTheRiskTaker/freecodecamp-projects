@@ -94,4 +94,10 @@ form {
 
 /* TODO: media query declaration block for form element */
 
-/* TODO: continue from here */
+.form-group {
+  margin: 0 auto 0.125rem auto;
+  padding: 0.25rem;
+  /** This declaration is a visual way to      */
+  /** learn how sections are separated apart.  */
+  /* background-color: rgba(0, 255, 174, 0.2); */
+}

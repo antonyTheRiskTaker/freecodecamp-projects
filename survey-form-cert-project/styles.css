@@ -75,7 +75,14 @@ p {
   }
 }
 
-/* TODO: media query declaration block #2 for responsive design */
+/** 768px is common breakpoint for medium devices like tablets.  */
+/** When screen size is more 768px wide, the form container */
+/** has a width that cannot go further than 720px.          */
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
 
 .header {
   padding: 0 0.625rem;

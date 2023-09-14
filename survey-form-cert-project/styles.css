@@ -63,7 +63,17 @@ p {
   margin: 3.125rem auto 0 auto;
 }
 
-/* TODO: media query declaration block #1 for responsive design */
+/* ? Why set `min-width` to 576px? */
+/** A: 576px is a popular breakpoint for small   */
+/** devices like smartphones (in portrait mode). */
+/* ? What does `@media (min-width: 576px)` mean? */
+/** A: It reads "if screen size is more than 576px wide,   */
+/** the form container can only stretch as wide as 540px." */
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
 
 /* TODO: media query declaration block #2 for responsive design */
 

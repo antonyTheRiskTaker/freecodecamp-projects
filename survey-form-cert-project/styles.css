@@ -57,7 +57,15 @@ label {
   margin-bottom: 0.5rem;
 }
 
-/* TODO: a declaration block for <input>, <button>, <select> and <textarea> */
+input,
+button,
+select,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
 
 button {
   border: none;

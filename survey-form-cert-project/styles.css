@@ -50,7 +50,12 @@ p {
   margin-bottom: 0.5rem;
 }
 
-/* TODO: a declaration block for <label> */
+label {
+  display: flex;
+  align-items: center;
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+}
 
 /* TODO: a declaration block for <input>, <button>, <select> and <textarea> */
 

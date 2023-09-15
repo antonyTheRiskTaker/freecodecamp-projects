@@ -59,7 +59,9 @@ label {
 
 /* TODO: a declaration block for <input>, <button>, <select> and <textarea> */
 
-/* TODO: a declaration block for <button> */
+button {
+  border: none;
+}
 
 /** To remind myself that this is a neat trick centering  */
 /** your contents in the middle of the page horizontally. */

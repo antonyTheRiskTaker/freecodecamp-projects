@@ -116,7 +116,12 @@ form {
   border-radius: 0.25rem;
 }
 
-/* TODO: media query declaration block for form element */
+/* ? What's the point of this media query? */
+@media (min-width: 480px) {
+  form {
+    padding: 2.5rem;
+  }
+}
 
 .form-group {
   margin: 0 auto 0.125rem auto;

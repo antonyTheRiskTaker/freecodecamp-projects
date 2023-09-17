@@ -16,22 +16,21 @@
       </p>
     </header>
     <form id="survey-form">
-      <!-- TODO: style this form group div -->
       <div class="form-group">
         <label id="name-label" for="name">Name</label>
         <input type="text" name="name" id="name" placeholder="Enter your name" class="form-control" />
       </div>
       <div class="form-group">
         <label id="email-label" for="email">Email</label>
-        <input type="email" name="email" id="email" placeholder="Enter your email" required />
+        <input type="email" name="email" id="email" placeholder="Enter your email" class="form-control" required />
       </div>
       <div class="form-group">
         <label id="age-label" for="age">Age &#40;optional&#41;</label>
-        <input type="number" name="age" id="age" placeholder="Age" min="10" max="99" />
+        <input type="number" name="age" id="age" placeholder="Age" min="10" max="99" class="form-control" />
       </div>
       <div class="form-group">
         <p>Which option best describes your current role?</p>
-        <select name="role" id="dropdown" required>
+        <select name="role" id="dropdown" class="form-control" required>
           <option disabled selected value>Select current role</option>
           <option value="student">Student</option>
           <option value="job">Full Time Job</option>
@@ -57,7 +56,7 @@
       </div>
       <div class="form-group">
         <p>What is your favourite feature of freeCodeCamp?</p>
-        <select name="mostLike" id="most-like" required>
+        <select name="mostLike" class="form-control" id="most-like" required>
           <option disabled selected value>Select an option</option>
           <option value="challenges">Challenges</option>
           <option value="projects">Projects</option>

@@ -110,7 +110,11 @@ button {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
 }
 
-/* TODO: a declaration block for the clue class */
+.clue {
+  margin-left: 0.25rem;
+  font-size: 0.9rem;
+  color: #e4e4e4;
+}
 
 .text-center {
   text-align: center;

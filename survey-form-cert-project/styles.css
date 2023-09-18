@@ -1,3 +1,10 @@
+/* ? a simple CSS reset: understand what is it supposed to do. */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 :root {
   --color-white: #f3f3f3;
   --color-dark-blue-alpha: rgba(27, 27, 50, 0.8);
@@ -158,4 +165,6 @@ form {
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
-/* TODO: continue from here */
+.form-control:focus {
+  border-color: #80bdff;
+}

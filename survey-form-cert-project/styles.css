@@ -167,4 +167,8 @@ form {
 
 .form-control:focus {
   border-color: #80bdff;
+  /* ? What does this line do? */
+  outline: 0;
+  /* ? Advanced stuff: figure what does it do? */
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }

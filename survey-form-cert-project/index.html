@@ -31,7 +31,6 @@
         </label>
         <input type="number" name="age" id="number" placeholder="Age" min="10" max="99" class="form-control" />
       </div>
-      <!-- TODO: start from here to check if there are missing classes -->
       <div class="form-group">
         <p>Which option best describes your current role?</p>
         <select name="role" id="dropdown" class="form-control" required>
@@ -43,18 +42,19 @@
           <option value="other">Other</option>
         </select>
       </div>
+      <!-- TODO: start from here to check if there are missing classes -->
       <div class="form-group">
         <p>Would you recommend freeCodeCamp to a friend?</p>
         <label for="definitely">
-          <input type="radio" name="user-recommend" value="definitely" id="definitely" checked />
+          <input type="radio" name="user-recommend" value="definitely" id="definitely" class="input-radio" checked />
           Definitely
         </label>
         <label for="maybe">
-          <input type="radio" name="user-recommend" value="maybe" id="maybe" />
+          <input type="radio" name="user-recommend" value="maybe" id="maybe" class="input-radio" />
           Maybe
         </label>
         <label for="not-sure">
-          <input type="radio" name="user-recommend" value="not-sure" id="not-sure" />
+          <input type="radio" name="user-recommend" value="not-sure" id="not-sure" class="input-radio" />
           Not Sure
         </label>
       </div>

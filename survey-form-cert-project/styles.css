@@ -1,13 +1,13 @@
+:root {
+  --color-white: #f3f3f3;
+  --color-dark-blue-alpha: rgba(27, 27, 50, 0.8);
+}
+
 /* ? a simple CSS reset: understand what is it supposed to do. */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
-}
-
-:root {
-  --color-white: #f3f3f3;
-  --color-dark-blue-alpha: rgba(27, 27, 50, 0.8);
 }
 
 body {

@@ -181,4 +181,9 @@ form {
   min-width: 1.25rem;
 }
 
-/* TODO: continue from here */
+.input-textarea {
+  min-height: 120px;
+  width: 100%;
+  padding: 0.625rem;
+  resize: vertical; /*? What does this line do? */
+}

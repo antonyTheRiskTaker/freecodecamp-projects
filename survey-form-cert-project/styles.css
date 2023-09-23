@@ -2,6 +2,7 @@
   --color-white: #f3f3f3;
   --color-darkblue: #1b1b32; 
   --color-darkblue-alpha: rgba(27, 27, 50, 0.8);
+  --color-green: #37af65;
 }
 
 /* ? a simple CSS reset: understand what is it supposed to do. */
@@ -189,4 +190,10 @@ form {
   resize: vertical; /*? What does this line do? */
 }
 
-/* TODO: continue from here */
+.submit-button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  background: var(--color-green);
+  /* color: inherit; */
+}

@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 16 */
+/* Steps covered: 1 through 17 */
 
 .canvas {
   width: 500px;
@@ -11,4 +11,8 @@
   width: 500px;
   padding: 50px;
   margin: 20px auto;
+}
+
+.one {
+  width: 425px;
 }

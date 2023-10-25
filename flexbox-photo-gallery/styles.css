@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 17 */
+/* Steps covered: 1 through 18 */
 
 * {
   box-sizing: border-box;
@@ -35,6 +35,8 @@ img {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 .gallery img {

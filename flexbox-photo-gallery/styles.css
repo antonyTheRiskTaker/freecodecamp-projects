@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 22 */
+/* Steps covered: 1 through 24 */
 
 * {
   box-sizing: border-box;
@@ -49,4 +49,9 @@ img {
   height: 300px;
   object-fit: cover;
   border-radius: 10px;
+}
+
+.gallery::after {
+  content: "";
+  width: 350px;
 }

@@ -1,4 +1,8 @@
-/* Steps covered: 1 through 5 */
+/* Steps covered: 1 through 7 */
+
+html {
+  font-size: 16px;
+}
 
 body {
   font-family: "Open Sans", sans-serif;

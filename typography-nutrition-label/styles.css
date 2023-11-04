@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 12 */
+/* Steps covered: 1 through 13 */
 
 * {
   box-sizing: border-box;
@@ -21,4 +21,10 @@ body {
 
 h1 {
   font-weight: 800;
+  text-align: center;
+  margin: -4px 0;
+}
+
+p {
+  margin: 0;
 }

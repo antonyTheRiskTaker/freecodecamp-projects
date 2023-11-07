@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 22 */
+/* Steps covered: 1 through 24 */
 
 * {
   box-sizing: border-box;
@@ -27,6 +27,8 @@ h1 {
 
 p {
   margin: 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 .divider {

@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 24 */
+/* Steps covered: 1 through 26 */
 
 * {
   box-sizing: border-box;
@@ -19,7 +19,7 @@ body {
   padding: 0 7px;
 }
 
-h1 {
+header h1 {
   text-align: center;
   margin: -4px 0;
   letter-spacing: 0.15px;

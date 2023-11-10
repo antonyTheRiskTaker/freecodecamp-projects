@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 30 */
+/* Steps covered: 1 through 32 */
 
 * {
   box-sizing: border-box;
@@ -47,4 +47,12 @@ p {
 .large, .medium {
   background-color: black;
   border: 0;
+}
+
+.small-text {
+  font-size: 0.85rem;
+}
+
+.calories-info h2 {
+  margin: 0; 
 }

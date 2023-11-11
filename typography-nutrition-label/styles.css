@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 32 */
+/* Steps covered: 1 through 34 */
 
 * {
   box-sizing: border-box;
@@ -51,6 +51,12 @@ p {
 
 .small-text {
   font-size: 0.85rem;
+}
+
+.calories-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
 .calories-info h2 {

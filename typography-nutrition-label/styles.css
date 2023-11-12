@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 34 */
+/* Steps covered: 1 through 36 */
 
 * {
   box-sizing: border-box;
@@ -61,4 +61,15 @@ p {
 
 .calories-info h2 {
   margin: 0; 
+}
+
+.left-container p {
+  margin: -5px -2px;
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.calories-info span {
+  font-size: 2.4em;
+  font-weight: 700;
 }

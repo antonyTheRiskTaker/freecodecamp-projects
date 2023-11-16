@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 40 */
+/* Steps covered: 1 through 41 */
 
 * {
   box-sizing: border-box;
@@ -77,4 +77,8 @@ p {
 
 .medium {
   height: 5px;
+}
+
+.right {
+  justify-content: flex-end;
 }

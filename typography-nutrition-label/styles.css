@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 45 */
+/* Steps covered: 1 through 46 */
 
 * {
   box-sizing: border-box;
@@ -81,4 +81,8 @@ p {
 
 .right {
   justify-content: flex-end;
+}
+
+.indent {
+  margin-left: 1em;
 }

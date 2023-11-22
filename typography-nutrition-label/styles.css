@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 47 */
+/* Steps covered: 1 through 50 */
 
 * {
   box-sizing: border-box;
@@ -87,6 +87,6 @@ p {
   margin-left: 1em;
 }
 
-.daily-value p {
+.daily-value p:not(.no-divider) {
   border-bottom: 1px solid #888989;
 }

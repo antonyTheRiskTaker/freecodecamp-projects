@@ -1,4 +1,4 @@
-/* Steps covered: 1 through 66 */
+/* Steps covered: 1 through 67 */
 
 * {
   box-sizing: border-box;
@@ -98,4 +98,6 @@ p {
 .note {
   font-size: 0.6rem;
   margin: 5px 0;
+  padding: 0 8px;
+  text-indent: -8px;
 }
